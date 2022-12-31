@@ -1,0 +1,17 @@
+{
+  "name": "firstcypressdemo",
+  "version": "0.0.1",
+  "description": "first",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "dev",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.2.0"
+  },
+  "dependencies": {
+    "chai": "^4.3.7"
+  }
+}
